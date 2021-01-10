@@ -31,12 +31,6 @@ main{
     width: 200px;
     margin-right: 20px
 }
-.filled{
-     color: goldenrod;
-}
-.unfilled{
-    color: lightgray;
-}
 @media (max-width:992px){
     .top-players{
         grid-template-columns: repeat(2, 1fr);
